@@ -25,23 +25,11 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 
-	<distributionManagement>
-		<repository>
-			<id>central</id>
-			<name>releases</name>
-			<url>http://13.234.217.238:8081/artifactory/libs-release-local</url>
-		</repository>
-		<snapshotRepository>
-			<id>snapshot</id>
-			<name>snapshots</name>
-			<url>http://13.234.217.238:8081/artifactory/libs-snapshot-local</url>
-		</snapshotRepository>
-	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/javacode.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/javacode.git</developerConnection>
-		<url>git@github.com:keshavkummari/javacode.git</url>
+		<connection>scm:git:git@github.com:sudhaakkaar/java_code_pipeline.git</connection>
+		<developerConnection>scm:git:git@github.com:sudhaakkaar/java_code_pipeline.git</developerConnection>
+		<url>git@github.com:sudhaakkaar/java_code_pipeline.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
